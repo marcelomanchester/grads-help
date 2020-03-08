@@ -1,7 +1,7 @@
 # grads-help
 
 ## requires
-      chocolatey = https://chocolatey.org/install
+    chocolatey = https://chocolatey.org/install
 
 ## install curl with chocolatey
     choco install curl
