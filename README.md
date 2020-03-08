@@ -7,7 +7,7 @@
     choco install curl
 
 ## import inpe's data
-      git pull 
+      git pull https://github.com/marcelomanchester/grads-help.git
       cd grads
       python importFiles.py
       
